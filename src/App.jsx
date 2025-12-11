@@ -760,14 +760,14 @@ hover:text-accent" asChild>
 </div>
 );
 };
-// Web Development Page Component - UPDATED to remove names and focus on
-development
+// Web Development Page Component - UPDATED to remove names and focus on development
 const WebDevelopmentPage = () => {
 const packages = [
 {
 name: "Landing Page",
 hours: "25-35 hours",
 price: "$2,125-$2,975",
+
 description: "Perfect for businesses needing a professional single-page presence",
 features: [
 "Single page responsive design",
